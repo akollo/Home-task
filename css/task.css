@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Satisfy&display=swap');
+body{
+    background-color: rgb(250, 208, 225);
+
+}
+.heading{
+    text-align: center;
+}
+.pilt{
+    border-radius: 50%;
+}
+.text1{
+    font-family: 'Satisfy', cursive;
+    text-align: center;
+    color: rgb(0, 132, 255);
+}
+.pilt{
+    width: 250px;
+    margin: 0 auto;
+}
+
+.tabel{
+border: 1px solid black;
+width: 55%;
+margin: 0 auto;
+}
+
+.taigen{
+    text-align: center;
+    font-family: 'Gideon Roman', cursive;
+    color: red;
+}
+
+.koostis{
+    margin: 0 auto;
+    border: 1px solid black;
+    color: red;
+}
+
+.täidis{
+    text-align: center;
+    font-family: 'Gideon Roman', cursive;
+    color: red;
+}
+
+.sisu{
+    margin: 0 auto;
+    border: 1px solid black;
+    color: red;
+}
+
+.õpetus{
+    text-align: center;
+    font-family: 'Gideon Roman', cursive;
+    color: blueviolet;
+
+}
+
+.valmistamine{
+    border: 1px solid black;
+    width: 55%;
+    margin: 0 auto;
+    color: blueviolet;
+}
+.allikas{
+    
+    color: blue;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    color: rgb(255, 0, 0);
+}
